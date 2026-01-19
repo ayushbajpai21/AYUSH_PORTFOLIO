@@ -10,7 +10,7 @@ export const personalInfo = {
     tagline: "Crafting premium digital experiences with modern web technologies",
     email: "bajpai21ayush@gmail.com",
     location: "India",
-    resumeUrl: "/resume.pdf"
+    resumeUrl: "/Ayushresume.pdf"
 };
 
 export const socialLinks = [

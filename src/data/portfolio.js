@@ -21,7 +21,7 @@ export const socialLinks = [
     },
     {
         name: "LinkedIn",
-        url: "www.linkedin.com/in/ayush-bajpai21",
+        url: "https://www.linkedin.com/in/ayush-bajpai21",
         icon: Linkedin
     },
     {

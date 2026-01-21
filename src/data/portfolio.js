@@ -133,32 +133,32 @@ export const certificates = [
         title:  "Winner – Smart India Hackathon (SIH) 2025",
         issuer: "Ministry of Education, Government of India",
         date: "December 2025",
-        image: "/certificates/cert-placeholder.png",
-        credentialUrl: "https://udemy.com/certificate/example123"
+        image: "/certificates/sih.jpeg",
+        // credentialUrl: "https://udemy.com/certificate/example123"
     },
     {
         id: 2,
         title: "Won Frontend Competion Certificate",
         issuer: "College",
         date: "December 2024",
-        image: "/certificates/cert-placeholder.png",
-        credentialUrl: "https://udemy.com/certificate/example456"
+        image: "/certificates/samera.jpeg",
+        // credentialUrl: "https://udemy.com/certificate/example456"
     },
     {
         id: 3,
         title: "Complete Training on MERN Stack Development",
         issuer: "ZN Infotech",
         date: "January 2025",
-        image: "/certificates/cert-placeholder.png",
-        credentialUrl: "https://udemy.com/certificate/example789"
+        image: "/certificates/zn.jpeg",
+        // credentialUrl: "https://udemy.com/certificate/example789"
     },
     {
         id: 4,
         title: "Full Stack Web Development (MERN) – Delta Batch",
         issuer: "Apna College",
         date: "June 2023",
-        image: "/certificates/cert-placeholder.png",
-        credentialUrl: "https://coursera.org/verify/example123"
+        image: "/certificates/delta.jpeg",
+        // credentialUrl: "https://coursera.org/verify/example123"
     },
 
 ];

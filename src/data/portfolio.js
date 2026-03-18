@@ -134,6 +134,8 @@ export const certificates = [
         issuer: "Ministry of Education, Government of India",
         date: "December 2025",
         icon: Trophy,
+        image: "/certificates/sih.jpeg",
+        description: "Achieved first place in the prestigious Smart India Hackathon 2025, solving a real-world problem with an innovative full-stack solution. This competition is one of the world's largest hackathons organized by the Ministry of Education.",
         credentialUrl: "https://udemy.com/certificate/example123"
     },
     {
@@ -142,6 +144,8 @@ export const certificates = [
         issuer: "College",
         date: "December 2024",
         icon: Award,
+        image: "/certificates/samera.jpeg",
+        description: "Awarded first prize in the college-wide Frontend Development Competition for creating a highly responsive and visually stunning user interface using modern CSS techniques and React.",
         credentialUrl: "https://udemy.com/certificate/example456"
     },
     {
@@ -150,6 +154,8 @@ export const certificates = [
         issuer: "ZN Infotech",
         date: "January 2025",
         icon: Database,
+        image: "/certificates/zn.jpeg",
+        description: "Successfully completed an intensive training program on the MERN stack (MongoDB, Express, React, Node.js), focusing on building scalable, industry-standard web applications.",
         credentialUrl: "https://udemy.com/certificate/example789"
     },
     {
@@ -158,9 +164,10 @@ export const certificates = [
         issuer: "Apna College",
         date: "June 2023",
         icon: Layers,
+        image: "/certificates/delta.jpeg",
+        description: "Comprehensive certification in Full Stack Web Development from Apna College's Delta Batch, covering core technologies including HTML, CSS, JS, Node, Express, MongoDB, and React.",
         credentialUrl: "https://coursera.org/verify/example123"
     },
-
 ];
 
 export const navLinks = [
